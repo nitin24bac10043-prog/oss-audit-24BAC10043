@@ -1,7 +1,7 @@
 #!/bin/bash
 # ==============================================================
 # Script 3: Disk and Permission Auditor
-# Author: Rahul G | Course: Open Source Software
+# Author: Nitin Mudgal | Course: Open Source Software
 # Purpose: Loops through a list of important system directories
 #          and reports disk usage, ownership, and permissions
 #          for each directory. Also checks the config directory
